@@ -7,6 +7,7 @@
 ###
 
 <p align="left">Soy un desarrollador Front-End en formación, apasionado por crear aplicaciones web interactivas y eficientes.</p>
+https://www.linkedin.com/in/ignacio-aguirre-camus-5a5154168/
 
 ###
 
