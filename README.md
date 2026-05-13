@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Hola, me llamo Ignacio y soy un desarrollador de Chile</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Soy un desarrollador con conocimientos en Front-end y Back-end.</p>
+<p align="left">Soy un desarrollador con conocimientos Desarrollo web, Tambien tengo conocimientos en análisis de datos y desarrollo de software.</p>
 
 ###
 
