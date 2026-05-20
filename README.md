@@ -13,7 +13,7 @@
 <p align="left">Soy un desarrollador con conocimientos Desarrollo web, Tambien tengo conocimientos en análisis de datos y desarrollo de software.</p>
 
 ###
-
+<p align="left">Stack Tecnológico.</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -35,3 +35,5 @@
 </div>
 
 ###
+
+<p align="left">www.linkedin.com/in/ignacio-aguirre-camus</p>
